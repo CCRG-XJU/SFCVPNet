@@ -1,0 +1,11 @@
+timm==0.6.12
+catalyst==20.09
+pytorch-lightning==1.5.9
+albumentations==1.1.0
+ttach
+numpy
+tqdm
+scipy
+matplotlib
+einops
+addict
