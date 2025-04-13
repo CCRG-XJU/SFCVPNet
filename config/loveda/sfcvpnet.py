@@ -1,7 +1,7 @@
 from torch.utils.data import DataLoader
 from geoseg.losses import *
 from geoseg.datasets.loveda_dataset import *
-from geoseg.models.T0 import Model
+from geoseg.models.SFCVPNet import Model
 from catalyst.contrib.nn import Lookahead
 from catalyst import utils
 
