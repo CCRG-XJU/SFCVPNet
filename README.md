@@ -1,5 +1,5 @@
 # Spatial and Learnable Frequency Dynamic Collaborative Visual Perception Network for Remote Sensing Images Semantic Segmentation
-Expert Systems With Applications
+
 
 ## Datasets
   - [ISPRS Vaihingen and Potsdam](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx) 
